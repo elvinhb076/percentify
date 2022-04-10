@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ba424ce-882e-4c25-b1a3-6ec860245259" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../example/DeepCopyingOfObject/DeepCopyingOfObject/DeepCloner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../agroup-backend" beforeDir="false" afterPath="$PROJECT_DIR$/../agroup-backend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter-agroup-insurance" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter-agroup-insurance" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mplus" beforeDir="false" afterPath="$PROJECT_DIR$/../mplus" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../percentify_test/lib/HomeScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../percentify_test/lib/HomeScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../percentify_test/lib/circle/CirclePainter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../percentify_test/lib/circle/CirclePainter.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../percentify_test/lib/linear/LinearPainter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../percentify_test/lib/linear/LinearPainter.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tutor_lab_app" beforeDir="false" afterPath="$PROJECT_DIR$/../tutor_lab_app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../septem/7gym.mobile" beforeDir="false" afterPath="$PROJECT_DIR$/../../septem/7gym.mobile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../septem/datapay-pos-android" beforeDir="false" afterPath="$PROJECT_DIR$/../../septem/datapay-pos-android" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../septem/mobins-mobile-app/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../septem/mobins.backend" beforeDir="false" afterPath="$PROJECT_DIR$/../../septem/mobins.backend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../septem/mobins.frontend" beforeDir="false" afterPath="$PROJECT_DIR$/../../septem/mobins.frontend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../septem/mobins.mobile" beforeDir="false" afterPath="$PROJECT_DIR$/../../septem/mobins.mobile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../septem/septem-pos-android" beforeDir="false" afterPath="$PROJECT_DIR$/../../septem/septem-pos-android" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../septem_gym_mobile/lib/screens/HomeScreen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../septem_gym_mobile/lib/screens/LoginScreen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../septem_gym_mobile/lib/screens/SplashScreen.dart" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27b9PU6pYi1Tue5x3VIt2ksL9hD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/components" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/painters/linear" />
+      <recent name="$PROJECT_DIR$/lib/data/configurations" />
+      <recent name="$PROJECT_DIR$/lib/data/configurations/linear" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/components" />
+      <recent name="$PROJECT_DIR$/lib/painters/circle" />
+      <recent name="$PROJECT_DIR$/lib/data/configurations/circle" />
+      <recent name="$PROJECT_DIR$/lib/data" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ba424ce-882e-4c25-b1a3-6ec860245259" name="Default Changelist" comment="" />
+      <created>1649577893746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649577893746</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="244" y="88" key="#Project_Structure" timestamp="1649591367771">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state x="244" y="88" key="#Project_Structure/0.32.1512.950@0.32.1512.950" timestamp="1649591367771" />
+    <state x="494" y="260" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1649582184793">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state x="494" y="260" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.32.1512.950@0.32.1512.950" timestamp="1649582184793" />
+  </component>
+</project>

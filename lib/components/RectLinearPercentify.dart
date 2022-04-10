@@ -3,6 +3,8 @@ import 'package:percentify/data/configurations/linear/DefaultLinearConfiguration
 import 'package:percentify/data/configurations/linear/ValueLinearConfiguration.dart';
 import 'package:percentify/painters/linear/RectLinearPainter.dart';
 
+import '../data/configurations/linear/ValueLinearConfiguration.dart';
+
 // ignore: must_be_immutable
 class RectLinearPercentify extends StatefulWidget {
   final int _percent;
@@ -34,7 +36,7 @@ class _RectLinearPercentifyState extends State<RectLinearPercentify> {
     super.initState();
 
     _defaultConfiguration = DefaultLinearConfiguration.fromConfig(widget.strokeWidth, widget.backgroundColor);
-    _defaultConfiguration = DefaultLinearConfiguration.fromConfig(widget.valueStrokeWidth, widget.valueColor);
+    _valueConfiguration = ValueLinearConfiguration.fromConfig(widget.valueStrokeWidth, widget.valueColor);
   }
 
   @override

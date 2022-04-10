@@ -21,7 +21,8 @@ class RectCircularPercentify extends StatefulWidget {
   double? valueStrokeWidth;
   double? strokeWidth;
 
-  RectCircularPercentify(this._percent, {Key? key, this.child, this.valueStrokeWidth, this.backgroundColor, this.valueColor}) : super(key: key);
+  RectCircularPercentify(this._percent, {Key? key, this.child, this.strokeWidth, this.valueStrokeWidth, this.backgroundColor, this.valueColor})
+      : super(key: key);
 
   @override
   _RectCircularPercentifyState createState() => _RectCircularPercentifyState();
